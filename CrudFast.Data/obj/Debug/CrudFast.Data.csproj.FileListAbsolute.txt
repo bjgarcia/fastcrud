@@ -1,0 +1,12 @@
+C:\Users\billgarcia\source\repos\CrudFast\CrudFast.Data\bin\Debug\CrudFast.Data.dll.config
+C:\Users\billgarcia\source\repos\CrudFast\CrudFast.Data\bin\Debug\CrudFast.Data.dll
+C:\Users\billgarcia\source\repos\CrudFast\CrudFast.Data\bin\Debug\CrudFast.Data.pdb
+C:\Users\billgarcia\source\repos\CrudFast\CrudFast.Data\bin\Debug\EntityFramework.dll
+C:\Users\billgarcia\source\repos\CrudFast\CrudFast.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\billgarcia\source\repos\CrudFast\CrudFast.Data\bin\Debug\EntityFramework.xml
+C:\Users\billgarcia\source\repos\CrudFast\CrudFast.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\billgarcia\source\repos\CrudFast\CrudFast.Data\obj\Debug\CrudFast.Data.csproj.CoreCompileInputs.cache
+C:\Users\billgarcia\source\repos\CrudFast\CrudFast.Data\obj\Debug\CrudFast.Data.csproj.CopyComplete
+C:\Users\billgarcia\source\repos\CrudFast\CrudFast.Data\obj\Debug\CrudFast.Data.dll
+C:\Users\billgarcia\source\repos\CrudFast\CrudFast.Data\obj\Debug\CrudFast.Data.pdb
+C:\Users\billgarcia\source\repos\CrudFast\CrudFast.Data\obj\Debug\CrudFast.Data.csprojAssemblyReference.cache
